@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+    <head>
+
+        <title> Bianka Cassante Torres </title>
+        <style type="text/css">
+
+            h1{
+                text-align: center;
+                color: #CD5C5C;
+            }
+            h2{
+                text-align:justify;
+                color:#FFB6C1;
+            }
+            h3 {
+                text-align: center;
+                color: #F08080;
+            }
+            .texto {
+                text-align: justify;
+                font-size: 16px;
+                fot-family: arial;
+                color: black;
+            }
+            
+        </style>
+
+    </head>
+
+    <body>
+
+        <img src="img/capaII.jpg"/>
+        <h1>Bianka Cassante Torres </h1>
+        <h3>Conheça um pouco mais sobre mim e o meu trabalho<h3>
+
+        <h2>Sobre</h2>
+    <div class="texto">
+        <p>Olá, me chamo <strong>Bianka</strong>, e sou <strong>Web Designer Front-End</strong>. Mas o que isso significa?<br>
+        Sabe esse site, todo bonito, cheio de botões e opções para você navegar? Então,isso é o Front-End do site, é a parte<br>
+        visual para a interação humano-maquina. E é por onde você está navegando para poder me conhecer melhor, e conehcer o<br>
+        meu trabalho. E sabe o que é melhor? Estou aqui para criar um desse para você. Isso mesmo! Assim como você está conhecendo <br>
+        melhor eu e o meu trabalho, os seus clientes podem conhecer melhor a sua empresa e o trabalho que ela oferece.<br>
+        Isso seria muito legal, né? Então, navengue mais pelo site e peça já o seu orçamento.</p>
+    </div>
+ 
